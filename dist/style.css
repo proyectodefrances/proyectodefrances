@@ -1,0 +1,39 @@
+.c {
+  background: linear-gradient(#54bab9, #9dd6df);
+  width: 100vw;
+  height: 400vh;
+  text-align: center;
+}
+p {
+  display: inline-block;
+  margin-right: 50px;
+}
+h1 {
+  text-align: center;
+  background-color: #f2ebe9;
+  padding: 20px;
+}
+h2 {
+  text-align: center;
+  background-color: #e8f9fd;
+}
+img {
+  width: 200px;
+  height: 150px;
+  margin-left: auto;
+  marging-right: auto;
+  padding: 10px;
+}
+
+#columna1 {
+  position: absolute;
+  left: 300px;
+  width: 250px;
+  margin-top: 10px;
+  text-align: left;
+}
+#columna2 {
+  margin-left: 650px;
+  margin-right: 200px;
+  text-align: left;
+}
